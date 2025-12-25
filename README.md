@@ -41,4 +41,18 @@ classifiers can be applied and compared for predictive analysis.
 
 ### Internship Task Submission
 This project was completed as **Internship Task 6** under the
-**Data Analytics Internship** at **OSS Infobyte**.
+**Data Analytics Internship** at **OASIS Infobyte**.
+
+##  Show Your Support
+If you found this helpful, please ⭐ **star the repository**!
+## Thank You
+Thank you for checking out my OIB-SIP Internship Sentiment Analysis Task-4!
+
+## Author
+###### Agasthi Doshi
+###### doshiagasthi@gmail.com
+###### +91-7400345300
+###### LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+
+## Thank You. I hope you like this project.
+If you liked the project or found it helpful, do consider sharing your feedback.
