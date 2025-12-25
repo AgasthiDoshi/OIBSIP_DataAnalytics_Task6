@@ -1,5 +1,5 @@
 # Wine Quality Prediction Using Machine Learning
-
+![Wine Quality Prediction](https://github.com/AgasthiDoshi/OIBSIP_DataAnalytics_Task6/blob/main/20251225_1739_Data%20Analytics%20Internship%20Cover_simple_compose_01kdapjqk9f2svgttf30y1qptk.png)
 ## Project Objective
 The objective of this project is to predict the quality of wine
 based on its chemical characteristics using machine learning
