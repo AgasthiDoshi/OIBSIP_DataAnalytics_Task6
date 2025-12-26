@@ -46,7 +46,7 @@ This project was completed as **Internship Task 6** under the
 ##  Show Your Support
 If you found this helpful, please ⭐ **star the repository**!
 ## Thank You
-Thank you for checking out my OIB-SIP Internship Sentiment Analysis Task-4!
+Thank you for checking out my OIB-SIP Internship Wine Quality Prediction Task-6!
 
 ## Author
 ###### Agasthi Doshi
